@@ -2,7 +2,7 @@
 ### Hey there 👋 
 ![Screen Recording 2021-07-16 at 12 40 38](https://user-images.githubusercontent.com/12417037/125973661-b5a33589-ef41-4341-b49b-fa8133bef082.gif)
 
-I am a Creative Developer from Brazil, make the Internet better for all is my mission and I use my skills for this purpose. 💡
+I am a Creative Developer and Designer, make the Internet better for all is my mission.💡 <br>
 <a href="https://www.hybear.com/" target="_blank">www.hybear.com</a>
 <table>
 <!--   <tr>
