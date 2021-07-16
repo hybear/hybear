@@ -1,17 +1,13 @@
 
-### Hi there 👋
+### Hey there 👋 
+![Screen Recording 2021-07-16 at 12 40 38](https://user-images.githubusercontent.com/12417037/125973661-b5a33589-ef41-4341-b49b-fa8133bef082.gif)
 
-I am a Creative Developer from Brazil, make the Internet better for all is my mission and I use my skills for this purpose.
+I am a Creative Developer from Brazil, make the Internet better for all is my mission and I use my skills for this purpose. 💡
 <a href="https://www.hybear.com/" target="_blank">www.hybear.com</a>
 <table>
-  <tr>
+<!--   <tr>
       <td><img width="100%" align="left" src="https://github-readme-stats.vercel.app/api?username=hybear&show_icons=true&theme=prussian" /></td>
-  </tr>
-  <tr>
-    <td>
-      <img width="440px" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=12170371697&cover_image=true&theme=novatorem" />
-    </td>
-  </tr>
+  </tr> -->
   <tr>
     <td>
       <tr>
@@ -37,6 +33,11 @@ I am a Creative Developer from Brazil, make the Internet better for all is my mi
         <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
         </td>
       </tr>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img width="440px" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=12170371697&cover_image=true&theme=novatorem" />
     </td>
   </tr>
 </table>
