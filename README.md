@@ -1,9 +1,6 @@
-
-### Hey there 👋 
+# Hey!! 🐻
+### I am a Creative Developer and Designer, <br> make the Internet better for all is my mission.💡
 ![Screen Recording 2021-07-16 at 12 40 38](https://user-images.githubusercontent.com/12417037/125973661-b5a33589-ef41-4341-b49b-fa8133bef082.gif)
-
-I am a Creative Developer and Designer, make the Internet better for all is my mission.💡 <br>
-<a href="https://www.hybear.com/" target="_blank">www.hybear.com</a>
 <table>
 <!--   <tr>
       <td><img width="100%" align="left" src="https://github-readme-stats.vercel.app/api?username=hybear&show_icons=true&theme=prussian" /></td>
