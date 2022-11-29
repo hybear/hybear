@@ -1,40 +1,32 @@
-# Hey!! 🐻
-### I am a Creative Developer and Designer, <br> make the Internet better for all is my mission.💡
-![Screen Recording 2021-07-16 at 12 40 38](https://user-images.githubusercontent.com/12417037/125973661-b5a33589-ef41-4341-b49b-fa8133bef082.gif)
+![tumblr_n4ypfqv8mz1sv68g4o1_500](https://user-images.githubusercontent.com/12417037/204651834-96d1faae-0bbc-4ef6-a64e-cb067cffafd0.gif)
+
+# Hi! You can call me Hybear... 🍃
+### 💡 Purpose
+> *"Make the Internet better for all is my mission."*
+
+Creating useful things for people, and improve their hapinness using digital products is what motivates me everyday, also I like to show things I'm proud of be part, so you expect me to talk with sparkling eyes about my work.
+
+## ✨ Skills
 <table>
 <!--   <tr>
       <td><img width="100%" align="left" src="https://github-readme-stats.vercel.app/api?username=hybear&show_icons=true&theme=prussian" /></td>
   </tr> -->
   <tr>
     <td>
-      <tr>
-        <td>
-          <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-          <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-          <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
           <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-          <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
           <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-        </td>
-        <tr>
-      <tr>
-        <td>
           <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-          <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
-          <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
         <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>
-        <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-        </td>
-      </tr>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img width="440px" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=12170371697&cover_image=true&theme=novatorem" />
     </td>
   </tr>
 </table>
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://www.hybear.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hybear)
+[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hybear)
+
+> *“Let love guide your actions, and one day, you'll be a man,
+>  <br> and will place your mark next to those of our ancestors.”*
+
+# ![Brother Bear](https://media.giphy.com/media/ZaBHSbiLQTmFi/giphy.gif)
