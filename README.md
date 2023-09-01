@@ -1,4 +1,4 @@
-![tumblr_n4ypfqv8mz1sv68g4o1_500](https://user-images.githubusercontent.com/12417037/204651834-96d1faae-0bbc-4ef6-a64e-cb067cffafd0.gif)
+![image](https://github.com/hybear/hybear/assets/12417037/646baf31-32de-420d-b263-20e795a0382a)
 
 # Hi! You can call me Hybear... 🍃
 ### 💡 Purpose
