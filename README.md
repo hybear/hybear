@@ -4,15 +4,16 @@
 ### 💡 Purpose
 > *"Make the Internet better for all is my mission."*
 
-Creating useful things for people, and improve their hapinness using digital products is what motivates me everyday, also I like to show things I'm proud of be part, so you expect me to talk with sparkling eyes about my work.
+Nothing motivates me more than seeing how a thoughtful digital product can improve someone’s day. I’m incredibly proud of the work I do, so don't be surprised if I talk about my projects with a level of excitement that's hard to hide!
 
 ## ✨ Skills
 - React
 - Typescript
+- Rust
+- Flutter
 - AWS Cloud
 - Tests
 - UI Design
-- CI/CD Pipelines
 - Adobe CC
   
   ...
